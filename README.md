@@ -1,5 +1,5 @@
 # Human Annotator Simulation (HAS) via CNFs
-Code for ''Human Annotator Simulation via Zero-shot Density Estimation''
+Code for ''It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimation''
 
 ## Dependencies
 PyTorch==1.11.1  
