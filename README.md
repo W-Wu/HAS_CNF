@@ -1,5 +1,12 @@
 # Human Annotator Simulation (HAS) via CNFs
-Code for ''It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimation''
+
+<div align="center">
+
+[![Paper](http://img.shields.io/badge/paper-arxiv.2310.00486-B31B1B.svg)](https://arxiv.org/abs/2310.00486)
+
+</div>
+
+Code for ''It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimation''. Please read our paper [[arXiv](https://arxiv.org/abs/2205.02708)] for detailed descriptions of the proposed human annotator simulation (HAS) method.
 
 ## Dependencies
 PyTorch==1.11.1  
@@ -27,4 +34,16 @@ Prepare training scp: `python3 data_preparation/prep_msp-scp.py`
 
 ## Scoring
 For S-CNF: `python3 scoring_S-CNF.py exp/test_outcome-E{PLACEHOLDER}.npy`  
-For I-CNF: `python3 scoring_I-CNF.py exp/test_outcome-E{PLACEHOLDER}.npy`  
+For I-CNF: `python3 scoring_I-CNF.py exp/test_outcome-E{PLACEHOLDER}.npy`
+
+## Citation
+If you find our paper and/or code useful for your research, please consider citing our paper:
+
+```
+@article{wu2023has,
+  title={It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimatio},
+  author={Wu, Wen and Chen, Wenlin and Zhang, Chao and Woodland, Philip C},
+  journal={arXiv preprint arXiv:2310.00486},
+  year={2023}
+}
+```
