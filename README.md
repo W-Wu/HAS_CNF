@@ -6,7 +6,7 @@
 
 </div>
 
-Code for ''It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimation''. Please read our paper [[arXiv](https://arxiv.org/abs/2205.02708)] for detailed descriptions of the proposed human annotator simulation (HAS) method.
+Code for ''It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimation''. Please read our paper [[arXiv](https://arxiv.org/abs/2310.00486)] for detailed descriptions of the proposed human annotator simulation (HAS) method.
 
 ## Dependencies
 PyTorch==1.11.1  
