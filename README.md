@@ -41,7 +41,7 @@ If you find our paper and/or code useful for your research, please consider citi
 
 ```
 @article{wu2023has,
-  title={It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimatio},
+  title={It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimation},
   author={Wu, Wen and Chen, Wenlin and Zhang, Chao and Woodland, Philip C},
   journal={arXiv preprint arXiv:2310.00486},
   year={2023}
