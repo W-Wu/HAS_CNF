@@ -1,4 +1,4 @@
-# Human Annotator Simulation (HAS) via CNFs
+# Human Annotator Simulation (HAS)
 
 <div align="center">
 
@@ -6,7 +6,11 @@
 
 </div>
 
-Code for ''It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimation''. Please read our paper [[arXiv](https://arxiv.org/abs/2310.00486)] for detailed descriptions of the proposed human annotator simulation (HAS) method.
+This repository contains code for the following two papers:
+- Modelling Variability in Human Annotator Simulation [Findings of ACL 2024]
+- It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimation [[arXiv](https://arxiv.org/abs/2310.00486)]
+
+Please read our paper for detailed descriptions of the proposed human annotator simulation (HAS) method.
 
 ## Dependencies
 PyTorch==1.11.1  
@@ -38,7 +42,14 @@ For I-CNF: `python3 scoring_I-CNF.py exp/test_outcome-E{PLACEHOLDER}.npy`
 
 ## Citation
 If you find our paper and/or code useful for your research, please consider citing our paper:
-
+```
+@inproceedings{wu2024modelling,
+  title={Modelling Variability in Human Annotator Simulation},
+  author={Wu, Wen and Chen, Wenlin and Zhang, Chao and Woodland, Philip C},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2024},
+  year={2024}
+}
+```
 ```
 @article{wu2023has,
   title={It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimation},
