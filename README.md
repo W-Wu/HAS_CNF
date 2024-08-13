@@ -2,13 +2,14 @@
 
 <div align="center">
 
-[![Paper](http://img.shields.io/badge/paper-arxiv.2310.00486-B31B1B.svg)](https://arxiv.org/abs/2310.00486)
+[![Paper](https://img.shields.io/badge/paper-arxiv.2310.00486-red)](https://arxiv.org/abs/2310.00486)
+[![Paper](https://img.shields.io/badge/paper-ACL2024_Findings-red)](https://aclanthology.org/2024.findings-acl.67/)
 
 </div>
 
 This repository contains code for the following two papers:
-- Modelling Variability in Human Annotator Simulation [Findings of ACL 2024]
-- It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimation [[arXiv](https://arxiv.org/abs/2310.00486)]
+1. Modelling Variability in Human Annotator Simulation [[Findings of ACL 2024, conference version](https://aclanthology.org/2024.findings-acl.67/)]
+2. It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimation [[Preprint, journal version](https://arxiv.org/abs/2310.00486)]
 
 Please read our paper for detailed descriptions of the proposed human annotator simulation (HAS) method.
 
