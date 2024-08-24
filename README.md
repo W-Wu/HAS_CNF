@@ -46,8 +46,9 @@ If you find our paper and/or code useful for your research, please consider citi
 ```
 @inproceedings{wu2024modelling,
   title={Modelling Variability in Human Annotator Simulation},
-  author={Wu, Wen and Chen, Wenlin and Zhang, Chao and Woodland, Philip C},
-  booktitle={Findings of the Association for Computational Linguistics: ACL 2024},
+  author={Wu, Wen and Chen, Wenlin and Zhang, Chao and Woodland, Phil},
+  booktitle={Findings of the Association for Computational Linguistics ACL 2024},
+  pages={1139--1157},
   year={2024}
 }
 ```
